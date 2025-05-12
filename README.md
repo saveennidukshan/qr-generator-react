@@ -16,7 +16,7 @@
 
 ```bash
 git clone https://github.com/saveennidukshan/qr-generator-react.git
-cd Todo-List-app
+cd qr-generator
 ```
 
 
